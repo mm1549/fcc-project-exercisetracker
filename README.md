@@ -1,3 +1,3 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+This is an Exercise Tracker built using boilerplate code from freeCodeCamp. The related Repl can be found under https://replit.com/@mm1549/fcc-project-exercisetracker
